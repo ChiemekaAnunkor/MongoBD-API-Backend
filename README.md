@@ -42,6 +42,8 @@ node server.js
 
 ## Demo
 
+Video linke https://www.youtube.com/watch?v=QKnR85Ho2BQ&ab_channel=Chumeeks
+
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/63639477/203689754-352d9652-9f32-4736-94a4-0552d3cb7131.png">
 
 ## links
